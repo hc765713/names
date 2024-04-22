@@ -1,0 +1,24 @@
+{
+  "name": "hc765713",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hc765713/names.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"hybergerceola": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
